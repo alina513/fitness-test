@@ -1,9 +1,5 @@
 <svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>
- <linearGradient id="humanGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#f7084c"/>
-      <stop offset="100%" stop-color="#ff5637"/>
-    </linearGradient>
 <symbol id="icon-Vector" viewBox="0 0 32 32">
 <path d="M29.712 20.576l2.288-2.288-2.288-2.288-5.712 5.712-13.712-13.712 5.712-5.712-2.288-2.288-2.288 2.288-2.288-2.288-3.424 3.424-2.288-2.288-2.288 2.288 2.288 2.288-3.424 3.424 2.288 2.288-2.288 2.288 2.288 2.288 5.712-5.712 13.712 13.712-5.712 5.712 2.288 2.288 2.288-2.288 2.288 2.288 3.424-3.424 2.288 2.288 2.288-2.288-2.288-2.288 3.424-3.424-2.288-2.288z"></path>
 </symbol>

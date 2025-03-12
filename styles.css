@@ -1611,3 +1611,93 @@ h3 {
     background-position: top 0px right 0px;
   }
 }
+
+/* Card */
+
+.section2 {
+  background-image: url("./images//tablet_bg_2.webp");
+}
+.section3 {
+  background-image: url("./images/tablet_bg-3.webp");
+}
+.section4 {
+  background-image: url("./images/tablet_bg-4.webp");
+}
+.section5 {
+  background-image: url("./images/tablet_bg-5.webp");
+}
+.section6 {
+  background-image: url("./images/tablet_bg-6.webp");
+}
+.section7 {
+  background-image: url("./images/tablet_bg-7.webp");
+}
+
+.advantages__block-card-mobile {
+  width: 87px;
+  height: 77px;
+}
+.advantages__block-table__numbe-mobiler {
+  font-family: "Hind", sans-serif;
+  font-weight: 400;
+  font-size: 32px;
+  background: linear-gradient(90deg, #ff5637 0%, #f91d46 62.5%, #f7084c 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  opacity: 0.4;
+  text-align: center;
+}
+
+.advantages__block-table__desc-mobile {
+  font-weight: 500;
+  font-size: 12px;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.advantages__container__button-mobile {
+  margin-top: 631px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.box1-mobile {
+  position: absolute;
+  top: 232px;
+  right: 277px;
+}
+.box2-mobile {
+  position: absolute;
+  top: 329px;
+  right: 267px;
+}
+.box3-mobile {
+  position: absolute;
+  top: 426px;
+  right: 285px;
+}
+.box4-mobile {
+  position: absolute;
+  top: 523px;
+  right: 278px;
+}
+.box5-mobile {
+  position: absolute;
+  top: 173px;
+  right: 66px;
+}
+.box6-mobile {
+  position: absolute;
+  top: 270px;
+  right: 40px;
+}
+.box7-mobile {
+  position: absolute;
+  top: 367px;
+  right: 48px;
+}
+.box8-mobile {
+  position: absolute;
+  top: 464px;
+  right: 14px;
+}
