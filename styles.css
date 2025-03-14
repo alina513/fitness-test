@@ -1320,6 +1320,7 @@ h3 {
   justify-content: center;
   width: 42px;
   height: 42px;
+  background-color: transparent;
 }
 .about__svg {
   fill: #fff;
@@ -2030,4 +2031,68 @@ h3 {
   top: 0px;
   right: -66px;
   height: 442px;
+}
+
+/* Select */
+.card__container__select {
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+  padding: 20px 16px;
+  width: 341px;
+  height: 249px;
+  background: linear-gradient(180deg, #f7084c 0%, #ff5637 100%);
+  padding: 16px;
+}
+.card__container__wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.card__container__select__title {
+  font-family: "Hind", sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  color: #f6f6f6;
+}
+.card__container__select__button {
+  border-radius: 12px;
+  background-color: var(--bgrnd);
+  width: 42px;
+  height: 42px;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.card__container__select__desc {
+  font-weight: 400;
+  font-size: 14px;
+  color: #f6f6f6;
+  margin-top: 22px;
+}
+.select-container {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+@media screen and (min-width: 1920px) {
+  .card__container__select {
+    width: 1720px;
+    height: 203px;
+    padding: 34px 24px 34px 24px;
+  }
+  .card__container__select__title {
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 125%;
+  }
+  .card__container__select__button {
+    width: 80px;
+    height: 80px;
+  }
+  .card__container__select__desc {
+    font-size: 20px;
+    width: 1479px;
+    margin-top: 0px;
+  }
 }

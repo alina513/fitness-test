@@ -44,5 +44,8 @@
 <symbol id="icon-goal_bird" viewBox="0 0 40 32">
 <path fill="#fff" style="fill: var(--color1, #fff)" d="M14.193 31.579l-14-14.8 3.5-3.7 10.5 11.1 22.535-23.823 3.5 3.7-26.035 27.523z"></path>
 </symbol>
+<symbol id="icon-bird-top" viewBox="0 0 53 32">
+<path fill="#fff" style="fill: var(--color1, #fff)" d="M53.333 27.176l-4.733 4.824-21.933-22.352-21.933 22.352-4.733-4.824 26.667-27.176 26.667 27.176z"></path>
+</symbol>
 </defs>
 </svg>
